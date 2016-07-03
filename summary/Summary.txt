@@ -1,0 +1,194 @@
+The Case for File Swapping
+==========================
+
+1. Introduction
+---------------
+
+* File swapping should be legal.
+* It is ethical and moral.
+* I'll explain why.
+
+2. Some misleading terms
+------------------------
+
+* "Intellectual Property".
+
+* "Stealing" or "Theft"
+    - getting hold of a private data - real stealing (of property).
+    - using someone else's copyrighted work in a one's work while claiming it 
+    is one's own.
+    
+* "Piracy"
+
+* "Crime"
+    - People who violate the letter of the law are not necessarily criminals.
+    - Example: People who protected Jews during the Nazi Reign.
+    - Example: People who bought Alcohol during the "Dry Period".
+
+* Conclusion:
+    - re-iterating these wrong inflections time and again.
+
+3. Why File Swapping should be Legal
+------------------------------------
+
+* It's not a crime
+    - pointing to a copyrighted file is merely linking or referencing
+    - a work that was put into the public cannot be restricted from
+    further non-commercial distribution. The Laws that say so are unethical.
+
+* There are plenty of other ways in which media vendors can make money.
+    - Restricting commercial use.
+    - Restricting modification or derivation.
+    - requiring attribution
+        >>> All respected by the Creative Commons licenses.
+
+* File swapping does not hurt Media sales.
+    - Bring Evidence.
+
+* Media vendors hunt file swappers and prosecute them.
+    - Lots of terror
+    - What is it good for?
+    - the RMS' "sharing" case. ("No, Tommy, don't share your media...")
+
+* Put it into perspective.
+    - The Media companies make money off selling people entertainment.
+    - They don't save lives.
+    - Even if noone pays for music/video/etc. (very unlikely), the rest of the 
+    economy will still operate pretty darn well.
+
+4. Refuting Common Arguments against File Swapping
+--------------------------------------------------
+
+* The Domino Effect.
+* Civil disobedience - violating laws may cause anarchy.
+* Comparison to not obeying traffic laws.
+* Others
+
+5. Legal Uses of File Swapping
+------------------------------
+
+* Getting a file from a misplaced CD.
+
+* Getting the video clip of a song.
+
+* Try before you buy.
+
+* Sharing songs that are perfectly legal for distribution.
+
+* Getting a digital recording of a song that was bought on cassete
+or on a vinnyl record.
+
+6. Reflection on Online Music Stores
+------------------------------------
+
+* A good thing.
+
+* DRM's offer only figleaf protection and only attempt to deprive users of
+the media they purchased.
+
+* Still don't imply that P2P/Websites/etc. are bad.
+
+7. Conclusion
+-------------
+
+* File swapping should be legal.
+
+* Media companies will be better off accepting it and living with the fact.
+    - "I Feel much Better - Now that I've Given Up All Hope"
+
+* If they try to fight P2P by lawsuits and threats they should be fought
+back.
+
+8. Other Important Copyright Issues
+-----------------------------------
+
+* Circumvention Devices (DeCSS, etc.)
+
+* Lengthening the Copyright Term.
+
+* DMCA - Cory Doctorow's Essay.
+
+* http://www.fepproject.org/policyreports/copyright2dexsum.html
+
+9. About this Document
+----------------------
+
+* Copyrights
+    - CC-by 2.5
+    
+* About the Author.
+
+* More Links
+    - The discussions@hamkoar, linux-il discussion.
+
+* Acknowledgments
+
+Later additions:
+----------------
+
+1. How you can help.
+
+2. Can File Swapping really be stopped? 
+    - Tor
+
+Updates for 10-Jul-2006:
+------------------------
+
++ * Style over content fallacy for the examples for benevolent fellons.
+
++ * The Internet as an alternative medium for content distribution:
+  +  - By type:
+        +- Music
+        +    - GarageBand.com
+        +    - ccMixter.
+        +    - Web-sites/Torrents.
+        +    - magnatune.
+        +- Text
+        +    - Wikis (Wikipedia and friends).
+        +    - web-sites/torrents
+        +    - blogs and blog comments
+        +- Images
+        +    - De-facto freely distributable, and to a slightly lesser extent
+        +    modifiable.
+        +   - Images Search Engines.
+        +   - Flickr.com, etc.
+        +- Videos and Animations.
+        +    - Flash/SVG
+        +    - Web-sites/torrents
+        +    - Google Video
+        +    - YouTube.com
+        +    - Etc.
+    +- The value of linking.
+    +    - by using a hyperlink one can immediately enjoy and experience the
+    +    piece of content. (Give some examples). 
+    +        - Link to Paul Graham's "Web 2.0" and "What business can learn
+    +        from Open Source".
+    
+* An email that told me that most documents about file swapping on the web
+were against file swapping rather than for it.
+
++* Historical Perspective.
++    - Texts in ancient times.
++        - Very costy to duplicate.
++        - Authors encouraged people to copy, quote and re-use their text.
++    - After the invention of Paper and the Press.
++        - Commercial Books
++            - Copyright was invented to:
++                1. Protect artists so their works will not be re-printed
++                by publishers and prints.
++                2. Make sure other prints won't be able to re-print the
++                works of other publishers.
++            - Applied exclusively to written works. (not to recordings (which
++            did not exist yet), melodies, pictures, videos, etc.)
+
++ * Link to open-dot-dot-dot.
+
++ * Link to Wil Wheaton's Interview.
+
++ * "Stealing from the rich and giving to the poor."
++     - Robin Hood - stole from the exploiters and gave to the exploited.
++     - Not really true.
++     - Explain about the music distributors.
+
++ * The Golden Rule.
+

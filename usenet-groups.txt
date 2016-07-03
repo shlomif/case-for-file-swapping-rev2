@@ -1,0 +1,6 @@
+alt.internet.p2p
+alt.music.mp3
+comp.os.linux.advocacy
+misc.legal
+misc.int-property
+soc.culture.usa
